@@ -484,7 +484,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 10
+  m_GravityScale: 1
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -504,7 +504,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _rigidbody: {fileID: 2112209533}
   _speed: 5
-  _jumpforse: 100
+  _jumpforse: 6
   _checkPoint: {fileID: 1825122841}
   _layer:
     serializedVersion: 2
